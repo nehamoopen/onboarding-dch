@@ -30,10 +30,10 @@ Welcome to [Utrecht University Library](https://www.uu.nl/en/university-library)
 This onboarding document is meant to help you get you acquainted with our organization and team. 
 <br> I hope it'll be useful and you have a nice start! </br>
 
-As your buddy, I'll be around for any and all questions. 
-<br> You can reach me anytime via [email](n.moopen@uu.nl) or MS Teams. </br> 
+As your buddies, we'll be around for any and all questions. 
+<br> You can reach us anytime via [email](n.moopen@uu.nl) [email](d.jansen@uu.nl) or MS Teams. </br> 
 
-Lastly, as my previous buddy emphasized for me, HAVE FUN!
+Lastly, HAVE FUN!
 
 <center>
 
@@ -43,7 +43,7 @@ Lastly, as my previous buddy emphasized for me, HAVE FUN!
 
 # GETTING STARTED
 
-For your general administrative & HR-related practicalities, the [UU Intranet](intranet.uu.nl) is a good start! There is a whole section on _Information for New Employees_ that you can go through.
+For your general administrative & HR-related practicalities, the [UU Intranet](intranet.uu.nl) is a good start! There is a whole section on _Information for New Employees_ that you can go through. The library has its own corner in the corporate environment [UBU Intranet](https://intranet.uu.nl/universiteitsbibliotheek)
 
 ## Practical Things
 
@@ -72,11 +72,9 @@ Here's a checklist of things you can cover in your first days:
 
 New staff members are always invited to an [orientation session](https://intranet.uu.nl/en/knowledgebase/new-staff-orientation-session). These take place 5 times a year. You'll receive an invitation via email about 4-6 weeks prior to the next meeting. 
 
-Mine was online, I can't be sure sure if you'll get to attend an offline one. You'll find out soon enough!
-
 ## Campus Map
 
-You likely know your way around as a UU-alum, but here's a [link](https://intranet.uu.nl/en/knowledgebase/buildings-and-maps) to maps of the campus - just in case you need them!
+You may already know your way around campus, but here's a [link](https://intranet.uu.nl/en/knowledgebase/buildings-and-maps) to maps of the campus - just in case you need them!
 
 # UNIVERSITY LIBRARY
 
@@ -108,40 +106,28 @@ There is also:
 
 </center>
 
-## Strategic Plan 2018-2020
+## Strategic Plan 2022-2025
 
-You can read the UB's [Strategic Plan](https://www.uu.nl/sites/default/files/strategisch_plan_ub_2018-2020_engelstalig.pdf) here, but a new version will probably come along soon.
+You can read the UB's [Strategic Plan](https://intranet.uu.nl/system/files/UU%20UB%20Policy%20Plan%202022-2025%20-%204MB.pdf) here. We are still working on the yearplan for 2023.
 
 ## The UB: Offline
 
-As you know, the UB is situated in two locations: the Binnenstad (UBB) & Utrecht Science Part (USP). You'll mostly work at the USP, at the offices on the 2nd floor.  
-
-We are still primarily working from home, but can choose to work on location once a week or so. For this you have to reserve a _werkplek_ and there's a Teams group (and Excel sheet within the Teams) to arrange this - _Reserveren werkplek UB_. You'll also be added to this group automatically.
-
-FYI: Rooms 2.14 & 2.16 are the ones where most Academic Services/RDM Support staff work (as far as I know, I've been a 100% thuiswerker all this while).
+As you know, the UB is situated in two locations: the City Centre (UBB) & Utrecht Science Part (USP). You'll mostly work at the USP, at the offices on the 2nd floor. FYI: Rooms 2.14 & 2.16 are the ones where most Academic Services/RDM Support staff work. Our colleagues from IT (Research engineering) co-work in the Administrative Building (Bestuursgebouw) on Mondays and Thursdays in room 3.40, you are also welcome to join them. Team RDM works partly from home, and partly from the office. We prefer to do our meetings in person.
 
 ## The UB: Online
 
-- The UB has it's own [intranet](http://intranet.library.uu.nl), but FYI we are going to be migrating to a space _within_ the UU Intranet very soon. So maybe don't bookmark this link :P
-
-- During coronatimes, the UB has it's own _UB Koffiehoek_ on Teams. You will be added to this group automatically. 
+Our online activities are mostly through Teams. We have UBU-wide Koffiehoek, we have AS Teams, RDM Support Teams, and also the Utrecht Datamanagement Community Teams. We'll get you introduced everywhere. 
 
 ## Introductory Meetings
 
-- You will be invited to an introduction meeting with Anja Smit (University Library / Director of the Library).
-
-- You will also be invited to an _Introductiebijeenkomst voor nieuwe medewerkers'_.
+- You will be invited to an _Introductiebijeenkomst voor nieuwe medewerkers'_ when one is planned.
 
 ## UB-wide meetings
 
-- I(dee) D(elen) koffie
-- I&D Bijeenkomst
+- I(dee) D(elen) koffie (weekly)
+- I&D Bijeenkomst (quarterly)
 
 You'll be invited to these automatically. These are meetings where colleagues across sectors come together to share updates and ideas.
-
-## Bonus!
-
-- If you would like to meet more of your colleagues in the UB, you can join the _Mystery Coffee_ organized within the UB Koffiehoek! 
 
 ![](https://live.staticflickr.com/7376/8722588426_5e7c1a701e_b.jpg) 
 
@@ -154,45 +140,42 @@ This is our sector! <3
 The managers of our sector include:
 
 - **Division Manager**: Martine Pronk
-- **Department Manager**: Coen Wilders 
 - **Department Manager**: Kim Bergmans 
+- **Department Manager**: Sven Raeymaekers 
+- **Department Manager**: Wenneke Meerstadt 
 
-Kim is our direct manager, so you'll be in touch with her all the time. You'll be invited to (re-)introduction meetings with Martine & Coen.
+Kim is our direct manager, so you'll be in touch with her all the time. You'll be invited to (re-)introduction meetings with Sven and Wenneke.
 
 ## Faculty Liasions
 
 To learn more about both our services and relations with respect to the UU faculties it is good to have meetings with faculty liaisons. They are considered to be the ones with in-depth knowledge about ‘who is who’ at the faculty-level. Faculty liaisons are the contacts of representation of the library at the faculties. Therefore, make an appointment with: 
 
-- [ ] **Science**: Aleksandre Gogaladze
+- [ ] **Science**: Aleksandre Gogaladze > will be leaving us soon
 - [ ] **Veterinary Sciences**: Felix Weijdema
 - [ ] **Humanities**: Rogier Schumacher
-- [ ] **Medical Sciences**: Paulien Wiersma
+- [ ] **Medical Sciences**: Najoua Ryane
 - [ ] **Geosciences**: Jeroen Bosman
 - [ ] **Law, Economics, and Government**: Sandrien Banens
-- [ ] **Social Sciences**: Jan de Boer
+- [ ] **Social Sciences**: Jan de Boer > is on sick leave for now
 
 ## AS Teams
 
-Academic Services is further organized into teams. For management purposes, these teams are divided between Coen & Kim. Each team has a contact person (or _aanspreekpunt_). It would be helpful to meet these contact persons and learn about what each team does and how we all fit together within the sector:
+Academic Services is further organized into teams. For management purposes, these teams are divided between Kim, Sven and Wenneke. Each team has a contact person (or _aanspreekpunt_). It would be helpful to meet these contact persons and learn about what each team does and how we all fit together within the sector:
 
 - [ ] **OPERA**: Felix Weijdema
-- [ ] **Coding & Software**: N/A, you can talk to Bianca Kramer
-- [ ] **Digital Humanities Support**: Puck Wildschut
+- [ ] **Coding & Software**: Neha Moopen
+- [ ] **Digital Humanities Support**: Arja Firet
 - [ ] **Special Collections**: Marco van Egmond
-- [ ] **Learning**: Marjan Groenouwe
+- [ ] **Learning**: Marie-Louise Goudeau
 - [ ] **ADD**: Desiree ten Dam & Rogier Schumacher
-- [ ] **RDM Support**: Annemiek van der Kuil ** 
-- [ ] **Publishing Support**: Fleur Stigter
-- [ ] **Copyright Information Office**: Margriet Fokken & Judith Hanekuijk
+- [ ] **RDM Support**: Dafne Jansen
+- [ ] **Publishing Support**: Jan de Boer
+- [ ] **Copyright Information Office**: Saskia Manuela Bergmans & Judith Hanekuijk
 - [ ] **BONUS -> Open Access Specialist:** Jeroen Sondervan
-
-** Annemiek is currently out of office, so Neha (and the rest of RDM Support) will get you up to speed.
 
 ## AS Meetings
 
-Currently, Academic Services gets together (via MS Teams) for a meeting every week or so. I have lost some sense of time due to the coronalife and I forgot how frequent they: weekly? biweekly? We have to ask Kim. These are just called the 'AS Meetings' and you will be invited to them automatically. 
-
-They are not mandatory, but I'd recommend to attend them regularly. During these meetings, there is usually one presentation which serves as an update of what a particular person's/team's has been up to. 
+Currently, Academic Services gets together (via MS Teams) for a meeting every week or so. They are not mandatory, but I'd recommend to attend them regularly. During these meetings, there is usually one presentation which serves as an update of what a particular person's/team's has been up to. 
 
 # RDM SUPPORT 
 
@@ -212,29 +195,18 @@ You can read the [University Framework for Research Data UU](https://www.uu.nl/s
 
 ## RDM within UB
 
-**RDM Support Coordinator**
-
-- [ ] Annemiek van der Kuil (out of office)
-
 **Data Consultants**
 
-- [ ] Mary Felix-Maina
+- [ ] Dafne Jansen (also community manager)
 - [ ] Jacques Flores
+- [ ] Mary Felix-Maina > maternity leave
 
 **Data Managers:** 
 
 - [ ] Ron Scholten
-- [ ] Danny de Koning-van Nieuwamerongen
-- [ ] Otto Lange
-- [ ] Neha Moopen
-
-**Subject Specialists:** 
-
-- [ ] Marie-Louise Goudeau
-- [ ] Puck Wildschut 
-- [ ] Sandrien Banens
-
-As a start, you can plan a meeting with each members of each 'group' together. 
+- [ ] Dorien Huijser
+- [ ] Otto Lange (actually, he is our metadataspecialist)
+- [ ] Neha Moopen (also coordinator sub-team Code and Software)
 
 ## RDM beyond the UB
 
