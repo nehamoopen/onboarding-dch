@@ -119,6 +119,8 @@ You can read the UB's [Strategic Plan](https://intranet.uu.nl/system/files/UU%20
 
 As you know, the UB is situated in two locations: the City Centre (UBB) & Utrecht Science Part (USP). You'll mostly work at the USP, at the offices on the 2nd floor. FYI: Rooms 2.14 & 2.16 are the ones where most Academic Services/RDM Support staff work. Our colleagues from IT (Research engineering) co-work in the Administrative Building (Bestuursgebouw) on Mondays and Thursdays in room 3.40, you are also welcome to join them. Team RDM works partly from home, and partly from the office. We prefer to do our meetings in person.
 
+Note that there are a lot of initiatives you could join to meet colleagues. There is a Whatsapp group for people who like to take walks around the Science Park during lunchtime, there is a Whatsapp group for people who want to meet colleagues for lunch on the second floor. And AS is also organizing "ontmoetingslunches". Talk to Neha or me if you want to know more.
+
 ## The UB: Online
 
 Our online activities are mostly through Teams. We have UBU-wide Koffiehoek, we have AS Teams, RDM Support Teams, and also the Utrecht Datamanagement Community Teams. We'll get you introduced everywhere. 
@@ -155,13 +157,13 @@ Kim is our direct manager, so you'll be in touch with her all the time. You'll b
 
 To learn more about both our services and relations with respect to the UU faculties it is good to have meetings with faculty liaisons. They are considered to be the ones with in-depth knowledge about ‘who is who’ at the faculty-level. Faculty liaisons are the contacts of representation of the library at the faculties. Therefore, make an appointment with: 
 
-- [ ] **Science**: Aleksandre Gogaladze > will be leaving us soon
+- [ ] **Science**: Aleksandre Gogaladze > will be leaving us soon, maybe meet with Andreas Franzke (information specialist)
 - [ ] **Veterinary Sciences**: Felix Weijdema
 - [ ] **Humanities**: Rogier Schumacher
 - [ ] **Medical Sciences**: Najoua Ryane
 - [ ] **Geosciences**: Jeroen Bosman
 - [ ] **Law, Economics, and Government**: Sandrien Banens
-- [ ] **Social Sciences**: Jan de Boer > is on sick leave for now
+- [ ] **Social Sciences**: Jan de Boer > is on sick leave for now, maybe meet with Erika Manten (information specialist)
 
 ## AS Teams
 
@@ -210,48 +212,42 @@ You can read the [University Framework for Research Data UU](https://www.uu.nl/s
 
 - [ ] Ron Scholten
 - [ ] Dorien Huijser
-- [ ] Otto Lange (actually, he is our metadataspecialist)
+- [ ] Otto Lange (he is our metadataspecialist)
 - [ ] Neha Moopen (also coordinator sub-team Code and Software)
 
+We also have 2 communication advisors that support us: Petra Davids and Marloes Beerling. 
+	
 ## RDM beyond the UB
 
-RDM Support is a collaboration between the University Library (UB) & Information Technology Services (ITS).
+RDM Support is a collaboration between the University Library (UB) & Information Technology Services (ITS). In ITS, there are three teams we interact with regularly. The research engineering team, the devops team, and the team that has no name but deals with most research services (like PURE, MyPhd, Qualtrics). The department manager for all these teams is Frank Heere. Make sure you meet Martine de Vos, the others you will probably see during a D-Lunch.
+	
+**Team coordinators**
 
-However, the RDM Support 'network' goes well beyond the aforementioned units. For a sneak peek, check out the Prezi below that Annemiek would normally take you through.
-
-<center>
-
-<iframe src="https://prezi.com/embed/pfqxa1phi0mn/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
-
-<center/>
-
-The Department Manager of ITS is Frank Heere. Within ITS, the **Research Engineering** team and **Yoda Development Team** are among the ones we collaborate with a lot. The larger RDM Support 'network' also includes the Faculty Data Managers, Privacy Officers, Information Security Officers, Research Support Officers.
+- [ ] Martine de Vos (research engineering)
+- Rob van Schip (devops)
+- Arjan Sieverink (services)
+	
+However, the RDM Support 'network' goes well beyond the aforementioned units. We will tell you more about the network and the idea of RDM Support central versus faculty support during your first weeks, and during the Intro to RDM @ UU training day.
 
 As a start, you can plan meetings with the following people:
 
-- [ ] **Research Engineering**: Martine de Vos
-
-- [ ] **Privacy @UB & @Veterinary Sciences**: Sanne Kleerebezem
+- [ ] **Privacy @UB & @Veterinary Sciences**: Pieter-Bas de Lange & Kasper de Bruijn
 
 - [ ] **Information Security**: Saskia van den Hout
 
-- [ ] **Data Manager @Humanities**: Frans de Liagre-Bohl
+- [ ] **Data Manager @Humanities & REBO**: Frans de Liagre-Bohl
 
 - [ ] **Data Manager @Geosciences**: Vincent Brunst
+	
+- [ ] **Data Manager @Humanities**: Frans de Liagre-Bohl
 
-- [ ] **RDM Coordinator @UMCU**: Irina van Dijk
+- [ ] **Data Manager @Social Sciences**: Dennis Hofman (he is a very busy guy so don't be alarmed if he does not answer his e-mail)
 
-Bonus Meetings:
+- [ ] **Data Manager @Science**: Frans Huigen & Mercedes Beltran
+	
+## FAIR Research IT
 
-- [ ] **Privacy @Geosciences**: Francisco Pastrana Romero
-
-- [ ] **Privacy @Humanities**: Robert Steeman
-
-- [ ] **Privacy @Beta**: Frans Huigen
-
-**Note 1**: Sanne, Saskia, Francisco are closely involved in the Data Privacy Project. 
-
-**Note 2:**: Robert & Frans are new to UU, they work a lot on privacy but they are also called 'data stewards' if I'm not wrong. Nice to hear more about their functions :)
+A particularly interesting program in the UU, is the FAIR Research IT program. The previous "edition" of this program led to the formation of RDM Support and the UDMC amongst other things. Read all about it on the [website](https://www.uu.nl/en/organisation/information-and-technology-services-its/what-we-do/research-and-it)
 
 ## Meetings 
 
@@ -259,13 +255,13 @@ Meetings for RDM Support occur at different levels:
 
 - [ ] **DMDC meeting:** Monthly meetings of the Data Consultants & Data Managers to update one another.
 
-- [ ] **RDM Askathon:** A wholly informal and non-mandatory meeting of RDM colleagues within the library to ask each other RDM questions and learn from one another.
+- [ ] **RDM Askathon:** A wholly informal and non-mandatory meeting of RDM colleagues within the library to ask each other RDM questions and learn from one another. > Not happening regularly right now.
 
-- [ ] **D-Lunch:** A monthly informal meeting with people from the larger RDM support network. Not mandatory, but recommended for a newbie.
+- [ ] **D-Lunch:** A twice a month informal meeting with people from the larger RDM support network. The focus of this group is collaboration between the library and ITS. Not mandatory, but recommended for a newbie.
 
-- [ ] **RDM Expert Meeting:** A semi-formal meeting with people from the larger RDM Support network to dive into + discuss RDM-specific topics and issues.
+- [ ] **RDM Expert Meeting:** A semi-formal meeting with people from the larger RDM Support network to dive into + discuss RDM-specific topics and issues. The focus of this group is aligning key players like RDM central, faculty support, privacy & information security.
 
-- [ ] **UDMC Meeting:** I think we've only had one of these so far, and has been put on hold as Annemiek is out of office. It is a longer event with pre-planned presentations on major topics/developments within RDM Support.
+- [ ] **UDMC Meeting:** A bimonthly semi-formal meeting with people from the regional network. The focus of this group is collaboration between UU and UMCU, but also other science park residents. 
 
 ## MS Teams
 
@@ -277,9 +273,23 @@ Make sure you're part of 2x teams for RDM Support:
 
 # OPEN SCIENCE, FAIR, RDM @UU
 
+## Open Science program
+	
+Read all about our open science program on their [website](https://www.uu.nl/en/research/open-science)
+
+## Faculty Open Science Teams 
+
+With Open Science being an important part of the UU's Strategic Plan, every Faculty has an Open Science Team now. They are composed of various 'Open Science Fellows' in addition to the OSCU Ambassadors and Faculty management. These 'Open Science Fellows' are appointed based on their specific interests: open access, FAIR Data & Software, Public Engagement, Recognition & Rewards.
+
+You can learn more the FOSTs and the Open Science Fellows here: https://www.uu.nl/en/research/open-science/about-us/faculty-open-science-team
+
+## FAIR Data & Software Track
+
+Of the various tracks within the Open Science strategic goal, the FAIR Data & Software track is particularly relevant for us at RDM Support. Jacques is currently our representative in this working group.
+	
 ## Open Science Community Utrecht
 
-Not specifically RDM-focused, but a very important space to keep up with researchers! 
+Not specifically RDM-focused, but a very important bottom up initiative to keep up with researchers! > This group used to be very active, but is a bit quiet at the moment...
 
 You can register on their [website](https://openscience-utrecht.com/). OSCU also has a Slack group that you can join!
 
@@ -287,21 +297,9 @@ They usually organize an _OSCoffee_ every month and there are larger faculty-spe
 
 There is an 'OSCU Ambassador' at every faculty, you might see these researchers around - they're (obviously) more active than others in the field!
 
-## Faculty Open Science Teams 
-
-With Open Science becoming an important part of the UU's Strategic Plan, every Faculty has an Open Science Team now. They are composed of various 'Open Science Fellows' in addition to the OSCU Ambassadors and Faculty management. These 'Open Science Fellows' are appointed based on their specific interests: open access, FAIR Data & Software, Public Engagement, Recognition & Rewards.
-
-You can learn more the FOSTs and the Open Science Fellows here: https://www.uu.nl/en/research/open-science/about-us/faculty-open-science-team
-
-## FAIR Data & Software Track
-
-Of the various tracks within the Open Science strategic goal, the FAIR Data & Software track is particularly relevant for us at RDM Support. Jacques is currently our representative in this working group.
-
 # DEVELOPMENT
 
-**coming soon**
-
-- UU Development Guide
+- UU Development Guide on [intranet](https://intranet.uu.nl/development-guide)
 - Research Data Management courses/material
 - Enterprise Data Management courses/material
 - FAIR courses/material
