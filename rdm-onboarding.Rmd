@@ -1,11 +1,16 @@
 ---
-title: "ONBOARDING"
+title: "RDM ONBOARDING"
 date: "`r Sys.Date()`"
 output:
   rmdformats::material:
     highlight: kate
+knit: (function(input, ...) {
+    rmarkdown::render(
+      input,
+      output_file = "docs/index.html"
+    )
+  })
 ---
-
 
 ```{r setup, include=FALSE}
 library(knitr)
