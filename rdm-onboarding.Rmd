@@ -30,7 +30,7 @@ opts_knit$set(width=75)
 
 # WELCOME
 
-Welcome to [Utrecht University Library](https://www.uu.nl/en/university-library), Lena & Stefano! 
+Welcome to [Utrecht University Library](https://www.uu.nl/en/university-library)!
 
 This onboarding document is meant to help you get you acquainted with our organization and team. 
 <br> I hope it'll be useful and you have a nice start! </br>
