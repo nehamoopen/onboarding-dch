@@ -25,7 +25,8 @@ jobs:
         run: Rscript -e 'install.packages("rmarkdown")'
         
       - name: Install rmdformats
-        run: Rscript -e 'install.packages("rmdformats")'
+        run: install.packages("rmdformats")
+        shell: Rscript {0}
       
       - name: Render Rmarkdown files and Commit Results
         run: |
