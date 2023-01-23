@@ -216,6 +216,16 @@ You can read the [University Framework for Research Data UU](https://www.uu.nl/s
 - [ ] Neha Moopen (also coordinator sub-team Code and Software)
 
 We also have 2 communication advisors that support us: Petra Davids and Marloes Beerling. 
+
+	**Onboarding activities:** 
+	
+- [ ] Join the Intro to RDM @ UU for datasupport day February 10!!! All the cool kids will be there.
+-[ ] Join Jacques and Dafne to review some DMP's and get acquainted with DMP Online
+- [ ] Join Jacques and Dafne for a walkthrough on Topdesk
+- [ ] Join our walk in hours on Mondays (and maybe the DH walk in hours on Thursdays as well)
+- [ ] Join the ASReview team on Thursdays
+- [ ] Join as many of our workshops as you can, check the [overview](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops)
+- [ ] Join us for a train-the-trainer meeting on Yoda > yet to be planned	
 	
 ## RDM beyond the UB
 
