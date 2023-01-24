@@ -32,7 +32,7 @@ opts_knit$set(width=75)
 
 Welcome to [Utrecht University Library](https://www.uu.nl/en/university-library)!
 
-This onboarding document is meant to help you get acquainted with our organization and team. We hope it'll be useful and that you'll have a nice start!
+This onboarding document is meant to help you get acquainted with our organization and Team RDM. We hope it'll be useful and that you'll have a nice start!
 
 If you have any questions, you can reach out to [Dafne](d.jansen@uu.nl) and/or [Neha](n.moopen@uu.nl) by email or MS Teams.
 
@@ -43,6 +43,58 @@ HAVE LOTS OF FUN!
 ![](https://cdn.archilovers.com/projects/f70653c68d0944d8ac3f96afb6db5eb6.jpg)
 
 </center>
+
+# Agenda & Action Points
+
+This onboarding document has lots of information for you to digest, so here's a page with a rough agenda and action points for your first days.
+
+## Agenda
+
+### Wednesday, 25th January
+
+- **10:00-12:00:** Meeting with Kim.
+- **12:00-13:00:** Lunch with Team RDM.
+- **13:00-15:00:** Maybe take a walk? Then take your time to Work on the _Getting Started_ section of this onboarding document.
+- **15:00-17:00:** Programming Cafe (you could already help Neha with setting up the room from 14:30 onwards).
+
+### Thursday, 26th January
+
+- **13:00-13:30:** D-Lunch (online)
+- **13:30-14:30:** Catch-up with Kim
+- **15:00-16:00:** Meeting with Neha (Team Code & Software + Dynamics of Youth)
+
+### Friday, 27th January
+
+- Koffiemoment (online) with Team RDM
+
+### Monday, 30th January
+
+- Meeting with Dafne & Jacques (Data Consultancy)
+- **13:00-13:30:** RDM Support Weekstart
+- **15:00-16:00:** Walk-In Hours for FAIR Data & Software Support
+
+### Tuesday, 31st January
+
+- **10:00-11:00:** Team Meeting: Data Privacy Project?
+- **15:00-16:00:** UDMC New Years' Drinks
+
+### Wednesday, 1st February
+
+- Workshop: Introduction to R & Data
+- Meeting with Ron (YOUth Cohort Study)?
+
+### Friday, 10th February
+
+- Introduction to RDM @UU for Data Support staff. All the cool kids will be there, except Neha.
+
+## Action Points
+
+- [ ] Check our [workshop overview](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops) and plan to attend all of them at least once. It does not have to be ASAP, just good to put it in your agendas.
+- [ ] Get acquainted with DMPonline and review some DMPs (with data consultants).
+- [ ] Do walkthrough of TopDesk (with data consultants).
+- [ ] Drop by walk-in hours for Digital Humanities on Thursdays.
+- [ ] Join the ASReview team on Thursdays.
+- [ ] Do a train-the-trainer meeting on Yoda -> this is still to be planned	
 
 # Getting Started
 
@@ -325,37 +377,27 @@ The Open Science Program is centered around the following tracks:
 
 The FAIR Data & Software track is particularly relevant for us at RDM Support. Jacques is currently our representative in this working group.
 
-## Open Science Fellows
+## Open Science Fellows 
 
-
+The [Open Science Fellows](https://www.uu.nl/en/research/open-science/people/open-science-fellows) are researchers who are recruited for a specific track of the Open Science Program, based on their interests and expertise. They represent their faculty within the track. The Open Science Fellows per faculty are listed at the bottom on each track page linked in the previous section.
 
 ## Faculty Open Science Teams 
 
-With Open Science being an important part of the UU's Strategic Plan, every Faculty has an Open Science Team now. They are composed of at least one Open Science fellow from each of the aforementioned tracks, in addition to the OSCU Ambassadors and faculty management. You can learn more about the FOSTs on the [UU website](https://www.uu.nl/en/news/faculty-open-science-team-the-next-step-in-the-realization-of-open-science).
+With Open Science being an important part of the UU's Strategic Plan, every Faculty has an Open Science Team now. They are composed of at least one 'Open Science Fellow' from each of the aforementioned tracks, in addition to the OSCU Ambassadors and faculty management.
+
+You can learn more about the [FOSTs](https://www.uu.nl/en/news/faculty-open-science-team-the-next-step-in-the-realization-of-open-science) on the UU website.
 
 ## Open Science Community Utrecht
 
-Not specifically RDM-focused, but a very important bottom up initiative to keep up with researchers! > This group used to be very active, but is a bit quiet at the moment...
+The OSCU is a bottom-up initiative for open science at the university, it's largely by researchers and for researchers. This group used to be very active, but it is a bit quiet at the moment...
 
-You can register on their [website](https://openscience-utrecht.com/). OSCU also has a Slack group that you can join!
+Nonetheless, you can register on the [OSCU website](https://openscience-utrecht.com/). They also have a Slack group that you can join!
 
-They usually organize an _OSCoffee_ every month and there are larger faculty-specific open science symposiums organized through the year.
+OSCU usually organizes an _OSCoffee_ every month and there are larger faculty-specific, open science symposiums organized through the year.
 
-There is an 'OSCU Ambassador' at every faculty, you might see these researchers around - they're (obviously) more active than others in the field!
+There is an 'OSCU Ambassador' at every faculty, you might see these researchers around - they're (obviously) more active than others in the field! You can see the core team and members on this [page](https://openscience-utrecht.com/oscu-core-team/).
 
-# Actions Points & Activities
-
-**Onboarding activities:** 
-	
-- [ ] Join the Intro to RDM @ UU for datasupport day February 10!!! All the cool kids will be there.
-- [ ] Join Jacques and Dafne to review some DMP's and get acquainted with DMP Online
-- [ ] Join Jacques and Dafne for a walkthrough on Topdesk
-- [ ] Join our walk in hours on Mondays (and maybe the DH walk in hours on Thursdays as well)
-- [ ] Join the ASReview team on Thursdays
-- [ ] Join as many of our workshops as you can, check the [overview](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops)
-- [ ] Join us for a train-the-trainer meeting on Yoda > yet to be planned	
-
-# DEVELOPMENT
+# Development
 
 - UU Development Guide on [intranet](https://intranet.uu.nl/development-guide)
 - Research Data Management courses/material
@@ -364,7 +406,7 @@ There is an 'OSCU Ambassador' at every faculty, you might see these researchers 
 - Data Privacy courses/material
 - Programming courses/material
 
-# LINKS & MORE LINKS
+# Links & More Links
 
 The actual links will be updated!
 
