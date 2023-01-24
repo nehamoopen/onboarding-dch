@@ -1,5 +1,5 @@
 ---
-title: "RDM ONBOARDING"
+title: "RDM Onboarding"
 date: "`r Sys.Date()`"
 output:
   rmdformats::material:
@@ -28,17 +28,15 @@ opts_chunk$set(echo=FALSE,
 opts_knit$set(width=75)
 ```
 
-# WELCOME
+# Hello There!
 
 Welcome to [Utrecht University Library](https://www.uu.nl/en/university-library)!
 
-This onboarding document is meant to help you get you acquainted with our organization and team. 
-<br> I hope it'll be useful and you have a nice start! </br>
+This onboarding document is meant to help you get acquainted with our organization and team. We hope it'll be useful and that you'll have a nice start!
 
-As your buddies, we'll be around for any and all questions. 
-<br> You can reach us anytime via [email](n.moopen@uu.nl) [email](d.jansen@uu.nl) or MS Teams. </br> 
+If you have any questions, you can reach out to [Dafne](d.jansen@uu.nl) and/or [Neha](n.moopen@uu.nl) by email or MS Teams.
 
-Lastly, HAVE FUN!
+HAVE LOTS OF FUN!
 
 <center>
 
@@ -46,20 +44,23 @@ Lastly, HAVE FUN!
 
 </center>
 
-# GETTING STARTED
+# Getting Started
 
-For your general administrative & HR-related practicalities, the [UU Intranet](intranet.uu.nl) is a good start! There is a whole section on _Information for New Employees_ that you can go through. The library has its own corner in the corporate environment [UBU Intranet](https://intranet.uu.nl/universiteitsbibliotheek)
+For administrative & HR-related information and practicalities, the [UU Intranet](intranet.uu.nl) is your starting point! There is a whole widget on _New at the UU?_ with relevant links, starting with _Information for New Employees_.  
+
+The library has its own corner in the corporate environment: [UBU Intranet](https://intranet.uu.nl/universiteitsbibliotheek)
 
 ## Practical Things
 
-Here's a checklist of things you can cover in your first days:
+Here's a summary of things you can cover in your first days:
 
 **Arrange Hardware & Software**
 
 - [ ] Laptop
 - [ ] Phone
-- [ ] [Two-Factor Authentication](https://intranet.uu.nl/en/2fa)
-- [ ] [VPN](https://manuals.uu.nl/en/handleiding/u-and-o-drive-on-windows-10-vpn/)
+- [ ] Two-Factor Authentication](https://intranet.uu.nl/en/2fa)
+- [ ] [VPN](https://intranet.uu.nl/en/knowledgebase/mobile-working-solis-vpn)
+- [ ] [IT manuals](https://manuals.uu.nl/nl/a-z/)
 
 **Staff Access**
 
@@ -68,32 +69,35 @@ Here's a checklist of things you can cover in your first days:
 
 **Administration & HR**
 
-- [ ] Check out [Self-Service HR](https://selfservice.portal.uu.nl/irj/portal/hr/medewerker). 
+- [ ] Check out [Self-Service HR](https://mijn.uu.nl). 
 - [ ] Fill in your work schedule on Self-Service HR
 - [ ] Update your [personal profile page](https://intranet.uu.nl/en/knowledgebase/about-the-profile-pages)
 - [ ] Check out [TopDesk](http://uu.topdesk.net/) - a self-service portal.
 
 ## New Staff Orientation Session
 
-New staff members are always invited to an [orientation session](https://intranet.uu.nl/en/knowledgebase/new-staff-orientation-session). These take place 5 times a year. You'll receive an invitation via email about 4-6 weeks prior to the next meeting. 
+New staff members are always invited to an [orientation session](https://intranet.uu.nl/en/knowledgebase/orientation-sessions-for-new-employees). These sessions take place 5 times a year. You'll receive an invitation via email about 4-6 weeks prior to the next meeting. 
 
 ## Campus Map
 
-You may already know your way around campus, but here's a [link](https://intranet.uu.nl/en/knowledgebase/buildings-and-maps) to maps of the campus - just in case you need them!
+In case you need to find your way to different buildings and locations, here's a [link](https://www.uu.nl/en/organisation/campus/maps) to maps of the campus.
 
-# UNIVERSITY LIBRARY
+# University Library
 
-AKA. The coolest building(s) on campus.
+AKA. The nicest building(s) on campus.
 
 <center>
 
-![](https://pbs.twimg.com/media/DKuVR4PWsAE9HIN.jpg)
+![USP](https://pbs.twimg.com/media/DKuVR4PWsAE9HIN.jpg)
+![UBB](https://grosfeldbekkersvandervelde.nl/wp-content/uploads/2014/11/20091119201-480x720.jpg)
 
 </center>
 
 ## Organization
 
-The Library consists of three divisions/sectors:
+The Director of the UB is [Matthijs van Otegem](https://www.uu.nl/medewerkers/MvanOtegem).
+
+The UB consists of three divisions/sectors:
 
 - Collection Services
 
@@ -107,38 +111,38 @@ There is also:
 
 <center>
 
-![](images/ubu_organization-chart.PNG)
+![UB Organization Chart. Click to enlarge.](images/ubu_organization-chart.PNG)
 
 </center>
 
 ## Strategic Plan 2022-2025
 
-You can read the UB's [Strategic Plan](https://intranet.uu.nl/system/files/UU%20UB%20Policy%20Plan%202022-2025%20-%204MB.pdf) here. We are still working on the yearplan for 2023.
+You can read the UB's [Strategic Plan for 2022-2025](https://intranet.uu.nl/system/files/UU%20UB%20Policy%20Plan%202022-2025%20-%204MB.pdf) here. We are still working on the year plan for 2023.
 
 ## The UB: Offline
 
-As you know, the UB is situated in two locations: the City Centre (UBB) & Utrecht Science Part (USP). You'll mostly work at the USP, at the offices on the 2nd floor. FYI: Rooms 2.14 & 2.16 are the ones where most Academic Services/RDM Support staff work. Our colleagues from IT (Research engineering) co-work in the Administrative Building (Bestuursgebouw) on Mondays and Thursdays in room 3.40, you are also welcome to join them. Team RDM works partly from home, and partly from the office. We prefer to do our meetings in person.
+The UB is situated in two locations: the City Centre (UBB) & Utrecht Science Part (USP). 
 
-Note that there are a lot of initiatives you could join to meet colleagues. There is a Whatsapp group for people who like to take walks around the Science Park during lunchtime, there is a Whatsapp group for people who want to meet colleagues for lunch on the second floor. And AS is also organizing "ontmoetingslunches". Talk to Neha or me if you want to know more.
+You'll mostly work at the USP, at the offices on the 2nd floor. FYI: Rooms 2.14 & 2.16 are the ones where staff from Academic Services/Team RDM usually work, though there will likely be a new (flexible) office plan in the coming months.
+
+Team RDM works partly from home, and partly from the office. We prefer to do our meetings in person and your choice of location for independent work is largely flexible.
 
 ## The UB: Online
 
-Our online activities are mostly through Teams. We have UBU-wide Koffiehoek, we have AS Teams, RDM Support Teams, and also the Utrecht Datamanagement Community Teams. We'll get you introduced everywhere. 
+Our online activities are organized through MS Teams. We have an UB-wide _koffiehoek_ and the Academic Services Teams. We'll add you to these Teams.
 
-## Introductory Meetings
-
-- You will be invited to an _Introductiebijeenkomst voor nieuwe medewerkers'_ when one is planned.
-
-## UB-wide meetings
+## UB-wide Meetings
 
 - I(dee) D(elen) koffie (weekly)
 - I&D Bijeenkomst (quarterly)
 
-You'll be invited to these automatically. These are meetings where colleagues across sectors come together to share updates and ideas.
+You'll be invited to these meetings by the organizers. These are meetings where UB colleagues across sectors come together to share updates and ideas. They are not manadatory, but they're nice to attend when you have time and you learn about what's happening in other parts of the library.
 
-![](https://live.staticflickr.com/7376/8722588426_5e7c1a701e_b.jpg) 
+## Informal Meetings
 
-# ACADEMIC SERVICES
+There are a lot of initiatives you could join to meet colleagues: There are WhatsApp groups for UB colleagues who like to take walks around USP during lunchtime and or meet for lunch on the 2nd floor. Moreover, Academic Services is also organizing _ontmoetingslunches_. You can talk to Dafne or Neha if you want to know more.
+
+# Academic Services
 
 This is our sector! <3 
 
@@ -151,152 +155,184 @@ The managers of our sector include:
 - **Department Manager**: Sven Raeymaekers 
 - **Department Manager**: Wenneke Meerstadt 
 
-Kim is our direct manager, so you'll be in touch with her all the time. You'll be invited to (re-)introduction meetings with Sven and Wenneke.
+Kim is our direct manager, so you'll be meeting with her regularly. 
 
 ## Faculty Liasions
 
-To learn more about both our services and relations with respect to the UU faculties it is good to have meetings with faculty liaisons. They are considered to be the ones with in-depth knowledge about ‘who is who’ at the faculty-level. Faculty liaisons are the contacts of representation of the library at the faculties. Therefore, make an appointment with: 
+To learn about the UB's services and relations with respect to the UU faculties, it is good to have meetings with faculty liaisons. Faculty liaisons are the first points of contact and representatives of the library at the faculties. They are considered to be the ones with in-depth knowledge about ‘who is who’ at the faculty-level. Therefore, make an appointment with: 
 
-- [ ] **Science**: Aleksandre Gogaladze > will be leaving us soon, maybe meet with Andreas Franzke (information specialist)
-- [ ] **Veterinary Sciences**: Felix Weijdema
-- [ ] **Humanities**: Rogier Schumacher
-- [ ] **Medical Sciences**: Najoua Ryane
-- [ ] **Geosciences**: Jeroen Bosman
-- [ ] **Law, Economics, and Government**: Sandrien Banens
-- [ ] **Social Sciences**: Jan de Boer > is on sick leave for now, maybe meet with Erika Manten (information specialist)
+- [ ] **Science**: [Aleksandre Gogaladze](https://www.uu.nl/staff/AGogaladze) -> Aleks will be leaving us soon, so maybe meet with [Andreas Franzke](https://www.uu.nl/staff/AWFranzke) (information specialist).
+- [ ] **Veterinary Sciences**: [Felix Weijdema](https://www.uu.nl/staff/FPWeijdema)
+- [ ] **Humanities**: [Rogier Schumacher](https://www.uu.nl/staff/RWGSchumacher)
+- [ ] **Medical Sciences**: [Najoua Ryane](n.ryane@uu.nl)
+- [ ] **Geosciences**: [Jeroen Bosman](https://www.uu.nl/staff/JMBosman)
+- [ ] **Law, Economics, and Government**: [Sandrien Banens](https://www.uu.nl/staff/SHBanens)
+- [ ] **Social Sciences**: [Jan de Boer](https://www.uu.nl/staff/JdeBoer) -> Jan is on sick leave for now, so maybe meet with [Erika Manten](https://www.uu.nl/staff/EIBManten) (information specialist)
 
 ## AS Teams
 
 Academic Services is further organized into teams. For management purposes, these teams are divided between Kim, Sven and Wenneke. Each team has a contact person (or _aanspreekpunt_). It would be helpful to meet these contact persons and learn about what each team does and how we all fit together within the sector:
 
-- [ ] **OPERA**: Felix Weijdema
-- [ ] **Coding & Software**: Neha Moopen
-- [ ] **Digital Humanities Support**: Arja Firet
-- [ ] **Special Collections**: Marco van Egmond
-- [ ] **Learning**: Marie-Louise Goudeau
-- [ ] **ADD**: Desiree ten Dam & Rogier Schumacher
-- [ ] **RDM Support**: Dafne Jansen
-- [ ] **Publishing Support**: Jan de Boer
-- [ ] **Copyright Information Office**: Saskia Manuela Bergmans & Judith Hanekuijk
-- [ ] **BONUS -> Open Access Specialist:** Jeroen Sondervan
+- [ ] **OPERA**: [Felix Weijdema](https://www.uu.nl/staff/FPWeijdema)
+- [ ] **Coding & Software**: [Neha Moopen](n.moopen@uu.nl)
+- [ ] **Digital Humanities Support**: [Arja Firet](https://www.uu.nl/staff/AKFiret)
+- [ ] **Special Collections**: [Marco van Egmond](https://www.uu.nl/staff/MvanEgmond1) -> try to visit Marco at Special Colellections in-person, there's lots of cool maps and more! 
+- [ ] **Learning**: [Marie-Louise Goudeau](https://www.uu.nl/staff/MSGoudeau)
+- [ ] **ADD**: [Desiree ten Dam](https://www.uu.nl/staff/DCMtenDam) & [Rogier Schumacher](https://www.uu.nl/staff/RWGSchumacher)
+- [ ] **RDM Support**: [Dafne Jansen](d.jansen@uu.nl)
+- [ ] **Publishing Support**: [Jan de Boer](https://www.uu.nl/staff/JdeBoer) -> we need to track down someone else in Team Publishing for you to talk to, while Jan is away.
+- [ ] **Copyright Information Office**: [Saskia Manuela Bergmans](https://www.uu.nl/staff/SAManuelaBergmans) & [Judith Hanekuijk](j.hanekuijk@uu.nl)
+- [ ] **BONUS -> Open Access Specialist:** [Jeroen Sondervan](https://www.uu.nl/medewerkers/jsondervan)
 
 ## AS Meetings
 
-Currently, Academic Services gets together (via MS Teams) for a meeting every week or so. They are not mandatory, but I'd recommend to attend them regularly. During these meetings, there is usually one presentation which serves as an update of what a particular person's/team's has been up to. 
+Currently, Academic Services gets together (via MS Teams) for a meeting every week or so. They are not mandatory, but we recommend to attend them regularly. During these meetings, there is usually one presentation which serves as an update of what a particular person/team has been up to. 
 
-# RDM SUPPORT 
+# RDM Support 
 
-This is your team! We are so happy to have you join us! <insert dancing The Office gif here>
+This is your team! We are so happy to have you join us!
 
-- **Website**
+<center>
 
-Take some time to go through the RDM Support [website](https://www.uu.nl/en/research/research-data-management). It's our go-to page for researchers and staff. While you're at it, let us know if you have any feedback on improving the website. 
+![](https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif)
 
-- **Newsletter**
+</center>
 
-We also have a [newsletter](https://mailings.uu.nl/hp/gKQRpokhPxN6bw8NlPTr8g/subscribe_newsletter_research_data_management_support) you should subscribe to.
+## Overview
 
-- **RDM Policy @UU**
+**RDM Website**
 
-You can read the [University Framework for Research Data UU](https://www.uu.nl/sites/default/files/university_policy_framework_for_research_data_utrecht_university_-_january_2016.pdf). Faculties have their specific policies but this overarching one is a start.
+Take some time to go through the RDM Support [website](https://www.uu.nl/en/research/research-data-management). It's our go-to page for both researchers and staff. While you're at it, let us know if you have any feedback on improving the website! 
 
-## RDM within UB
+**Newsletter**
+
+RDM Support also has a [newsletter](https://mailings.uu.nl/hp/gKQRpokhPxN6bw8NlPTr8g/subscribe_newsletter_research_data_management_support) that you can subscribe to.
+
+**RDM Policy @UU**
+
+You can read the [University Framework for Research Data UU](https://www.uu.nl/sites/default/files/university_policy_framework_for_research_data_utrecht_university_-_january_2016.pdf). Faculties have their specific policies as well, but this overarching one is a start.
+
+**FAIR Research IT Program**
+
+A particularly interesting program at the UU, is the FAIR Research IT Program. The previous "'edition' of this program led to the formation of RDM Support and the UDMC amongst other things. Read all about it on the [UU website](https://www.uu.nl/en/organisation/information-and-technology-services-its/what-we-do/research-and-it) and the [program website](https://itforresearch.uu.nl/wiki/FAIR_Research_IT_programma_aan_de_UU#).
+
+## RDM Within UB
 
 **Data Consultants**
 
-- [ ] Dafne Jansen (also community manager)
-- [ ] Jacques Flores
-- [ ] Mary Felix-Maina > maternity leave
+- [ ] [Dafne Jansen](d.jansen@uu.nl) (also functions as a Community Manager)
+- [ ] [Jacques Flores](j.p.flores@uu.nl)
+- [ ] [Mary Felix-Maina](https://www.uu.nl/staff/MWFelixMaina) -> Mary is currently on maternity leave.
 
-**Data Managers:** 
+**Data Managers** 
 
-- [ ] Ron Scholten
-- [ ] Dorien Huijser
-- [ ] Otto Lange (he is our metadataspecialist)
-- [ ] Neha Moopen (also coordinator sub-team Code and Software)
+- [ ] [Ron Scholten](https://www.uu.nl/staff/RHHScholten)
+- [ ] [Dorien Huijser](https://www.uu.nl/staff/DCHuijser)
+- [ ] [Neha Moopen](n.moopen@uu.nl)
+- [ ] [Otto Lange](https://www.uu.nl/staff/OALange) -> otto is not exactly a data manager, but he's our metadataspecialist!
 
-We also have 2 communication advisors that support us: Petra Davids and Marloes Beerling. 
+## Communications
 
-	**Onboarding activities:** 
+We have two communication advisors that support us: [Petra Davids](https://www.uu.nl/staff/PMDavids) and [Marloes Beerling](m.beerling@uu.nl). 
+
+## RDM Beyond The UB
+
+### ITS
+
+RDM Support is a collaboration between the UB & [Information Technology Services (ITS)](https://www.uu.nl/en/organisation/information-and-technology-services-its). 
+
+Within ITS, there are three teams we interact with regularly:
+- [Research Engineering](https://utrechtuniversity.github.io/research-engineering/)
+- DevOps 
+- The team that doesn't have a name yet, but deals with most research services (like PURE, MyPhD, Qualtrics). 
+
+**The Boss & Coordinators**
+
+The department manager for the aforementioned ITS teams is [Frank Heere](https://www.uu.nl/staff/FHHeere). 
+
+The team coordinators are as follows:
+
+- [ ] Research Engineering: [Martine de Vos](https://www.uu.nl/staff/MGdeVos) 
+- [ ] DevOps: [Rob van Schip](https://www.uu.nl/staff/RJAvanSchip)
+- [ ] No-Name Team: [Arjan Sieverink](https://www.uu.nl/staff/JASieverink)
+
+Do make sure to meet Martine de Vos, you will likely meet the others during a D-Lunch or another meeting/event.
+
+Our colleagues from Research Engineering co-work in the Administrative Building (Bestuursgebouw) on Mondays and Thursdays in Room 3.40, you are also welcome to join them there!
 	
-- [ ] Join the Intro to RDM @ UU for datasupport day February 10!!! All the cool kids will be there.
--[ ] Join Jacques and Dafne to review some DMP's and get acquainted with DMP Online
-- [ ] Join Jacques and Dafne for a walkthrough on Topdesk
-- [ ] Join our walk in hours on Mondays (and maybe the DH walk in hours on Thursdays as well)
-- [ ] Join the ASReview team on Thursdays
-- [ ] Join as many of our workshops as you can, check the [overview](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops)
-- [ ] Join us for a train-the-trainer meeting on Yoda > yet to be planned	
+### Faculties	
 	
-## RDM beyond the UB
-
-RDM Support is a collaboration between the University Library (UB) & Information Technology Services (ITS). In ITS, there are three teams we interact with regularly. The research engineering team, the devops team, and the team that has no name but deals with most research services (like PURE, MyPhd, Qualtrics). The department manager for all these teams is Frank Heere. Make sure you meet Martine de Vos, the others you will probably see during a D-Lunch.
-	
-**Team coordinators**
-
-- [ ] Martine de Vos (research engineering)
-- Rob van Schip (devops)
-- Arjan Sieverink (services)
-	
-However, the RDM Support 'network' goes well beyond the aforementioned units. We will tell you more about the network and the idea of RDM Support central versus faculty support during your first weeks, and during the Intro to RDM @ UU training day.
+The RDM Support 'network' goes well beyond the UB and ITS. We will tell you more about the network and the idea of central vs. faculty-level RDM Support during your first weeks, as well as during the Intro to RDM @UU training day.
 
 As a start, you can plan meetings with the following people:
 
-- [ ] **Privacy @UB & @Veterinary Sciences**: Pieter-Bas de Lange & Kasper de Bruijn
+**Faculty Data Managers/Stewards**
 
-- [ ] **Information Security**: Saskia van den Hout
+- [ ] **Data Manager @Humanities & REBO**: [Frans de Liagre-Bohl](https://www.uu.nl/staff/FMTdeLiagreBohl)
+- [ ] **Data Manager @Geosciences**: [Vincent Brunst](https://www.uu.nl/staff/VBrunst)
+- [ ] **TechSupport @Social Sciences**: [Dennis Hofman](https://www.uu.nl/staff/DHofman) (he is a very busy guy, so don't be worried if he's doesn't answer his e-mail)
+- [ ] **Data Stewards @Science**: [Frans Huigen](https://www.uu.nl/staff/FHuigen) & [Mercedes Beltran](https://www.uu.nl/staff/MIBeltran)
 
-- [ ] **Data Manager @Humanities & REBO**: Frans de Liagre-Bohl
+**Privacy & Information Security**
 
-- [ ] **Data Manager @Geosciences**: Vincent Brunst
-	
-- [ ] **Data Manager @Humanities**: Frans de Liagre-Bohl
+- [ ] **Privacy @UB & @Veterinary Sciences**: [Pieter-Bas de Lange](p.s.j.delange@uu.nl) & [Kasper de Bruijn](k.debruijn@uu.nl)
+- [ ] **Information Security @UB & Veterinary Sciences**: [Saskia van den Hout](s.e.vandenhout@uu.nl)
 
-- [ ] **Data Manager @Social Sciences**: Dennis Hofman (he is a very busy guy so don't be alarmed if he does not answer his e-mail)
+The Privacy Officers at other faculties are listed below, but you don't need to plan a meeting with them. You'll see them other meetings/events, make sure to say hi when you do!
 
-- [ ] **Data Manager @Science**: Frans Huigen & Mercedes Beltran
-	
-## FAIR Research IT
+- **REBO & Humanities:** Joris de Graaf
+- **Social Sciences:** Jacqueline Tenkink
+- **Geosciences:** Francisco Romero Pastrana
 
-A particularly interesting program in the UU, is the FAIR Research IT program. The previous "edition" of this program led to the formation of RDM Support and the UDMC amongst other things. Read all about it on the [website](https://www.uu.nl/en/organisation/information-and-technology-services-its/what-we-do/research-and-it)
-
-## Meetings 
+## RDM Meetings 
 
 Meetings for RDM Support occur at different levels:
 
-- [ ] **DMDC meeting:** Monthly meetings of the Data Consultants & Data Managers to update one another.
+- **DMDC meeting:** Monthly meetings for the Data Consultants & Data Managers at UB, as well as the KimBoss.
 
-- [ ] **RDM Askathon:** A wholly informal and non-mandatory meeting of RDM colleagues within the library to ask each other RDM questions and learn from one another. > Not happening regularly right now.
+- **RDM Askathon:** A wholly informal and non-mandatory meeting of RDM colleagues within the library to ask each other RDM questions and learn from one another. -> Mary would organize these, but it hasn't occured since she left for maternity leave.
 
-- [ ] **D-Lunch:** A twice a month informal meeting with people from the larger RDM support network. The focus of this group is collaboration between the library and ITS. Not mandatory, but recommended for a newbie.
+- **D-Lunch:** A twice-monthly informal meeting with people from the broader RDM support network. The focus of this group used to be the collaboration between the UB and ITS, but we now have colleagues from the faculties joining as well. Not a mandatory meeting, but definitely recommended.
 
-- [ ] **RDM Expert Meeting:** A semi-formal meeting with people from the larger RDM Support network to dive into + discuss RDM-specific topics and issues. The focus of this group is aligning key players like RDM central, faculty support, privacy & information security.
+- **RDM Expert Meeting:** A semi-formal meeting with people from the larger RDM Support network to dive into + discuss RDM-specific topics and issues. The focus of this group is aligning key players like central RDM Support, faculty-level support, privacy & information security.
 
-- [ ] **UDMC Meeting:** A bimonthly semi-formal meeting with people from the regional network. The focus of this group is collaboration between UU and UMCU, but also other science park residents. 
+- **Utrecht Data Management Community (UDMC) Meeting:** A bimonthly semi-formal meeting with people from the regional network. The focus of this group is collaboration between UU and UMCU, but also other Utrecht Science Park organizations. 
 
 ## MS Teams
 
-Make sure you're part of 2x teams for RDM Support: 
+We will add you to the 2x MS Teams groups for RDM Support: 
 
-- [ ] RDM Support 
+- RDM Support 
+- Utrecht Data Management Community
 
-- [ ] Utrecht Data Management Community
+# Open Science & FAIR @UU
 
-# OPEN SCIENCE, FAIR, RDM @UU
+Open Science has been a strategic goal of the UU for a couple of years now. 
+You can read all about the UU's ambitions with respect to Open Science on the [UU website](https://www.uu.nl/en/research/open-science). 
 
-## Open Science program
-	
-Read all about our open science program on their [website](https://www.uu.nl/en/research/open-science)
+## Open Science Platform
+
+The Open Science Program at UU is directed by the [Open Science Platform](https://www.uu.nl/en/research/open-science/about-us/utrecht-university-open-science-platform).
+
+## Tracks
+
+The Open Science Program is centered around the following tracks:
+
+- [ ] [Open Access](https://www.uu.nl/en/research/open-science/tracks/open-access)
+- [ ] [FAIR Data & Software](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software)
+- [ ] [Public Engagement](https://www.uu.nl/en/research/open-science/tracks/public-engagement)
+- [ ] [Recognition & Rewards](https://www.uu.nl/en/research/open-science/tracks/recognition-and-rewards)
+
+The FAIR Data & Software track is particularly relevant for us at RDM Support. Jacques is currently our representative in this working group.
+
+## Open Science Fellows
+
+
 
 ## Faculty Open Science Teams 
 
-With Open Science being an important part of the UU's Strategic Plan, every Faculty has an Open Science Team now. They are composed of various 'Open Science Fellows' in addition to the OSCU Ambassadors and Faculty management. These 'Open Science Fellows' are appointed based on their specific interests: open access, FAIR Data & Software, Public Engagement, Recognition & Rewards.
+With Open Science being an important part of the UU's Strategic Plan, every Faculty has an Open Science Team now. They are composed of at least one Open Science fellow from each of the aforementioned tracks, in addition to the OSCU Ambassadors and faculty management. You can learn more about the FOSTs on the [UU website](https://www.uu.nl/en/news/faculty-open-science-team-the-next-step-in-the-realization-of-open-science).
 
-You can learn more the FOSTs and the Open Science Fellows here: https://www.uu.nl/en/research/open-science/about-us/faculty-open-science-team
-
-## FAIR Data & Software Track
-
-Of the various tracks within the Open Science strategic goal, the FAIR Data & Software track is particularly relevant for us at RDM Support. Jacques is currently our representative in this working group.
-	
 ## Open Science Community Utrecht
 
 Not specifically RDM-focused, but a very important bottom up initiative to keep up with researchers! > This group used to be very active, but is a bit quiet at the moment...
@@ -306,6 +342,18 @@ You can register on their [website](https://openscience-utrecht.com/). OSCU also
 They usually organize an _OSCoffee_ every month and there are larger faculty-specific open science symposiums organized through the year.
 
 There is an 'OSCU Ambassador' at every faculty, you might see these researchers around - they're (obviously) more active than others in the field!
+
+# Actions Points & Activities
+
+**Onboarding activities:** 
+	
+- [ ] Join the Intro to RDM @ UU for datasupport day February 10!!! All the cool kids will be there.
+- [ ] Join Jacques and Dafne to review some DMP's and get acquainted with DMP Online
+- [ ] Join Jacques and Dafne for a walkthrough on Topdesk
+- [ ] Join our walk in hours on Mondays (and maybe the DH walk in hours on Thursdays as well)
+- [ ] Join the ASReview team on Thursdays
+- [ ] Join as many of our workshops as you can, check the [overview](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops)
+- [ ] Join us for a train-the-trainer meeting on Yoda > yet to be planned	
 
 # DEVELOPMENT
 
