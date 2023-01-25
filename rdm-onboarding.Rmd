@@ -52,7 +52,7 @@ This onboarding document has lots of information for you to digest, so here's a 
 
 ### Wednesday, 25th January
 
-- **10:00-12:00:** Meeting with Kim.
+- **10:00-12:00:** Getting your IT stuff sorted out.
 - **12:00-13:00:** Lunch with Team RDM.
 - **13:00-15:00:** Maybe take a walk? Then take your time to Work on the _Getting Started_ section of this onboarding document.
 - **15:00-17:00:** Programming Cafe (you could already help Neha with setting up the room from 14:30 onwards).
@@ -65,23 +65,24 @@ This onboarding document has lots of information for you to digest, so here's a 
 
 ### Friday, 27th January
 
-- Koffiemoment (online) with Team RDM
+- Koffiemoment (online) with Team RDM (time t.b.a.)
 
 ### Monday, 30th January
 
-- Meeting with Dafne & Jacques (Data Consultancy)
+- **10.00-13.00** Meeting with Dafne & Jacques (Data Consultancy) + lunch with RDM people present
 - **13:00-13:30:** RDM Support Weekstart
 - **15:00-16:00:** Walk-In Hours for FAIR Data & Software Support
 
 ### Tuesday, 31st January
 
 - **10:00-11:00:** Team Meeting: Data Privacy Project?
-- **15:00-16:00:** UDMC New Years' Drinks
+- **16:00-17:00:** UDMC New Years' Drinks
 
 ### Wednesday, 1st February
 
 - Workshop: Introduction to R & Data
-- Meeting with Ron (YOUth Cohort Study)?
+- Meeting with Ron (YOUth Cohort Study)? > to be arranged if it fits, you can also focus on R
+- On Wednesdays Dafne and Marie-Louise work on training materials for the Learn how to write your DMP course, you can join us sometime (but probably not this week)
 
 ### Friday, 10th February
 
@@ -151,12 +152,11 @@ The Director of the UB is [Matthijs van Otegem](https://www.uu.nl/medewerkers/Mv
 
 The UB consists of three divisions/sectors:
 
-- Collection Services
+- Collection Services 
 
 - Academic Services 
 
 - Public Services 
-
 There is also: 
 
 - _Stafdiensten_ which includes management support, communications, IT, facility management.
@@ -281,7 +281,7 @@ A particularly interesting program at the UU, is the FAIR Research IT Program. T
 - [ ] [Ron Scholten](https://www.uu.nl/staff/RHHScholten)
 - [ ] [Dorien Huijser](https://www.uu.nl/staff/DCHuijser)
 - [ ] [Neha Moopen](n.moopen@uu.nl)
-- [ ] [Otto Lange](https://www.uu.nl/staff/OALange) -> otto is not exactly a data manager, but he's our metadataspecialist!
+- [ ] [Otto Lange](https://www.uu.nl/staff/OALange) -> Otto is not exactly a data manager, but he's our metadataspecialist!
 
 ## Communications
 
@@ -296,7 +296,7 @@ RDM Support is a collaboration between the UB & [Information Technology Services
 Within ITS, there are three teams we interact with regularly:
 - [Research Engineering](https://utrechtuniversity.github.io/research-engineering/)
 - DevOps 
-- The team that doesn't have a name yet, but deals with most research services (like PURE, MyPhD, Qualtrics). 
+- The team that doesn't have a name yet, but deals with most research support services (like PURE, MyPhD, Qualtrics). 
 
 **The Boss & Coordinators**
 
@@ -322,7 +322,7 @@ As a start, you can plan meetings with the following people:
 
 - [ ] **Data Manager @Humanities & REBO**: [Frans de Liagre-Bohl](https://www.uu.nl/staff/FMTdeLiagreBohl)
 - [ ] **Data Manager @Geosciences**: [Vincent Brunst](https://www.uu.nl/staff/VBrunst)
-- [ ] **TechSupport @Social Sciences**: [Dennis Hofman](https://www.uu.nl/staff/DHofman) (he is a very busy guy, so don't be worried if he's doesn't answer his e-mail)
+- [ ] **TechSupport @Social Sciences**: [Dennis Hofman](https://www.uu.nl/staff/DHofman) (he is a very busy guy, so don't be worried if he's doesn't answer his e-mail right away, it's not personal ;-))
 - [ ] **Data Stewards @Science**: [Frans Huigen](https://www.uu.nl/staff/FHuigen) & [Mercedes Beltran](https://www.uu.nl/staff/MIBeltran)
 
 **Privacy & Information Security**
@@ -332,7 +332,7 @@ As a start, you can plan meetings with the following people:
 
 The Privacy Officers at other faculties are listed below, but you don't need to plan a meeting with them. You'll see them other meetings/events, make sure to say hi when you do!
 
-- **REBO & Humanities:** Joris de Graaf
+- **REBO & Humanities:** Joris de Graaf & Leon Kessels
 - **Social Sciences:** Jacqueline Tenkink
 - **Geosciences:** Francisco Romero Pastrana
 
@@ -346,7 +346,7 @@ Meetings for RDM Support occur at different levels:
 
 - **D-Lunch:** A twice-monthly informal meeting with people from the broader RDM support network. The focus of this group used to be the collaboration between the UB and ITS, but we now have colleagues from the faculties joining as well. Not a mandatory meeting, but definitely recommended.
 
-- **RDM Expert Meeting:** A semi-formal meeting with people from the larger RDM Support network to dive into + discuss RDM-specific topics and issues. The focus of this group is aligning key players like central RDM Support, faculty-level support, privacy & information security.
+- **RDM Expert Meeting:** A semi-formal 8-weekly meeting with people from the larger RDM Support network to dive into + discuss RDM-specific topics and issues. The focus of this group is aligning key players like central RDM Support, faculty-level support, privacy & information security. Dafne chairs the meeting, Jacques is always there, but apart from that we discuss who of is can and should be present.
 
 - **Utrecht Data Management Community (UDMC) Meeting:** A bimonthly semi-formal meeting with people from the regional network. The focus of this group is collaboration between UU and UMCU, but also other Utrecht Science Park organizations. 
 
@@ -399,34 +399,34 @@ There is an 'OSCU Ambassador' at every faculty, you might see these researchers 
 
 # Development
 
-- UU Development Guide on [intranet](https://intranet.uu.nl/development-guide)
-- Research Data Management courses/material
-- Enterprise Data Management courses/material
-- FAIR courses/material
-- Data Privacy courses/material
-- Programming courses/material
+- For your general personal development, check out the UU Development Guide on [intranet](https://intranet.uu.nl/development-guide)
+- For privacy, check out our own [Data Privacy Handbook](https://utrechtuniversity.github.io/dataprivacyhandbook/) 
+- For a general intro in to RDM, either check [RDMLA](https://rdmla.github.io/)
+- or [Essentials 4 Data Support](https://datasupport.researchdata.nl/en/)
+- For a general intro to FAIR check out [FAIR 101](https://au-research.github.io/FAIR-data-101-training/)
+- [Library Carpentry](https://librarycarpentry.org/lessons/)
+- [Open Science MOOC](https://opensciencemooc.eu/)
+- [Understanding the GDPR](https://www.futurelearn.com/courses/general-data-protection-regulation)
 
 # Links & More Links
 
-The actual links will be updated!
+This is just a selection, nice to browse!
 
-- UU Strategic Plan
+- [UU Strategic Plan](https://www.uu.nl/en/organisation/strategic-plan)
 - An [overview](https://intranet.uu.nl/kennisbank/abonneren-op-nieuwsbrieven) of ALL the UU newsletters. Subscribe to the ones you want!
-- Landelijk Coordinatepunt Research Data Management (LCRDM)
-- LCRDM Mailing List
-- National Platform Open Science & NAtional Plan Open Science (NPOS)
-- JISC
-- JISC (UK) Research Data Management dicussion list
-- LIBER
-- Australian Research Data Commons (ARDC)
-- Research Data Alliance (RDA)
-- Open Data Institute (ODI)
-- Open Knowledge Foundation (OKF)
-- FAIRsFAIR
-- Health-RI
-- DANS
-- CESSDA
-- DDI
-- GO-FAIR
-- UK Data Service
+- [Landelijk Coordinatepunt Research Data Management (LCRDM)] (https://www.lcrdm.nl/en)
+- [National Platform Open Science & NAtional Plan Open Science (NPOS)](https://www.openscience.nl/en/national-platform-open-science/national-plan-open-science)
+- [JISC (UK) Research Data Management dicussion list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=RESEARCH-DATAMAN&A=1)
+- [Australian Research Data Commons](https://ardc.edu.au/)
+- [LIBER](https://libereurope.eu/)
+- [Research Data Alliance (RDA)](https://www.rd-alliance.org/)
+- [Open Data Institute (ODI)](https://theodi.org/)
+- [Open Knowledge Foundation (OKF)](https://okfn.org/)
+- [FAIRsFAIR](https://www.fairsfair.eu/)
+- [Health-RI](https://www.health-ri.nl/data-driven-health-connect-share-and-reuse)
+- [DANS](https://easy.dans.knaw.nl/ui/home)
+- [CESSDA](https://www.cessda.eu/)
+- [DDI](https://ddialliance.org/)
+- [GO-FAIR](https://www.go-fair.org/)
+- [Digital Curation Centre](https://dcc.ac.uk/about/)
 
