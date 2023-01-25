@@ -91,6 +91,7 @@ This onboarding document has lots of information for you to digest, so here's a 
 ## Action Points
 
 - [ ] Check our [workshop overview](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops) and plan to attend all of them at least once. It does not have to be ASAP, just good to put it in your agendas.
+- [ ] Start one of the RDM / FAIR / Open Science courses linked in the _Development_ section of this onboarding document.
 - [ ] Get acquainted with DMPonline and review some DMPs (with data consultants).
 - [ ] Do walkthrough of TopDesk (with data consultants).
 - [ ] Drop by walk-in hours for Digital Humanities on Thursdays.
@@ -399,14 +400,42 @@ There is an 'OSCU Ambassador' at every faculty, you might see these researchers 
 
 # Development
 
-- For your general personal development, check out the UU Development Guide on [intranet](https://intranet.uu.nl/development-guide)
-- For privacy, check out our own [Data Privacy Handbook](https://utrechtuniversity.github.io/dataprivacyhandbook/) 
-- For a general intro in to RDM, either check [RDMLA](https://rdmla.github.io/)
-- or [Essentials 4 Data Support](https://datasupport.researchdata.nl/en/)
-- For a general intro to FAIR check out [FAIR 101](https://au-research.github.io/FAIR-data-101-training/)
-- [Library Carpentry](https://librarycarpentry.org/lessons/)
-- [Open Science MOOC](https://opensciencemooc.eu/)
-- [Understanding the GDPR](https://www.futurelearn.com/courses/general-data-protection-regulation)
+## General
+
+For personal development in general, check out the [UU Development Guide](https://intranet.uu.nl/development-guide) on the intranet].  
+
+## RDM
+
+The following self-paced courses are a great start to learn about RDM:
+
+- The [Research Data Management Librarian Academy (RDMLA)](https://rdmla.github.io/)
+- [Essentials 4 Data Support](https://datasupport.researchdata.nl/en/)
+
+## FAIR Principles
+
+- The [FAIR 101](https://au-research.github.io/FAIR-data-101-training/) lectures are a nice introduction to FAIR.
+- You can also read the article that started it all: [The FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18)
+- The YOUth Cohort Study also has article about their FAIR data and infrastructure: [FAIR, safe and high-quality data: The data infrastructure and accessibility of the YOUth cohort study](https://doi.org/10.1016/j.dcn.2020.100834)
+
+## Data Privacy
+
+To learn about data privacy, check out: 
+
+- Our own [Data Privacy Handbook](https://utrechtuniversity.github.io/dataprivacyhandbook/) 
+- [Understanding the GDPR](https://www.futurelearn.com/courses/general-data-protection-regulation), a self-paced course.
+
+## Open Science
+
+There are many resources to learn about Open Science, we'll link you to the following:
+
+- The well-known [Open Science MOOC](https://opensciencemooc.eu/)
+- [Open Science: Sharing Your Research with the World](https://www.edx.org/course/open-science-sharing-your-research-with-the-world), a self-paced course from TU Delft.
+
+## Libraries!
+
+And last, but not least: it might be nice to learn about libraries since you're going to be working in one!
+
+[Library Carpentry](https://librarycarpentry.org/lessons/) offers some interesting lessons, some are relevant to us as 'data people' as well.
 
 # Links & More Links
 
